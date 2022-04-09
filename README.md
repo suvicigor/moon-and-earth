@@ -1,5 +1,5 @@
 # moon-and-earth
-Prazan projekat sa pratećim bibliotekama koje koristimo na času. 
+Autor: Igor Suvic
 
 # Uputstvo
 1. `git clone https://github.com/matf-racunarska-grafika/project_base.git`
