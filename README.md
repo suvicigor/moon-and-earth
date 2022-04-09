@@ -1,4 +1,4 @@
-# project_base
+# moon-and-earth
 Prazan projekat sa pratećim bibliotekama koje koristimo na času. 
 
 # Uputstvo
