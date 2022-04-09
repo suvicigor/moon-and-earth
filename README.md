@@ -8,7 +8,7 @@ TO_DO:
 - dodati bloom na mesec
 
 # Uputstvo
-1. `git clone https://github.com/suvicigor/moon-and-earth
+1. git clone https://github.com/suvicigor/moon-and-earth
 2. CLion -> Open -> path/to/my/project_base
 3. Kontrole(1 - enable face cull, 0 - disable face cull(default), 2 - front cull, 3 - back cull)
 
