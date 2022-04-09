@@ -2,7 +2,7 @@
 Autor: Igor Suvic
 
 Projekat sadrzi: Window, Vertices, Shaders, Textures, Transformations, Camera, 
-Lighing(Point Lighting blinn-phong), Models, Blending, Face Culling, Cubemaps and SkyBox
+Lighting(Point Lighting blinn-phong), Models, Blending, Face Culling, Cubemaps and SkyBox
 
 TO_DO:
 - dodati bloom na mesec
