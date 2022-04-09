@@ -1,9 +1,15 @@
 # moon-and-earth
 Autor: Igor Suvic
 
+Projekat sadrzi: Window, Vertices, Shaders, Textures, Transformations, Camera, 
+Lighing(Point Lighting blinn-phong), Models, Blending, Face Culling, Cubemaps and SkyBox
+
+TO_DO:
+- dodati bloom na mesec
+
 # Uputstvo
 1. `git clone https://github.com/matf-racunarska-grafika/project_base.git`
 2. CLion -> Open -> path/to/my/project_base
-3. 'shaders' folder preuzeti sa linka:
-4. 
+3. Kontrole(1 - enable face cull, 0 - disable face cull(default), 2 - front cull, 3 - back cull)
+
 
