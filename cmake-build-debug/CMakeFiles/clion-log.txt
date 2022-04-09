@@ -1,0 +1,5 @@
+/snap/clion/184/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/184/bin/ninja/linux/ninja -G Ninja /home/ubuntu/Desktop/moon_and_earth_igor_suvic
+-- Found ASSIMP: /usr/lib/x86_64-linux-gnu/libassimp.so
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ubuntu/Desktop/moon_and_earth_igor_suvic/cmake-build-debug
